@@ -1,8 +1,10 @@
 # FGO IrRemote
 
 **Télécommande infrarouge Android pour la barre de son LG SK5.**
+ Application 100 % gratuite, sans publicité, sans abonnement !
 
 **Android infrared remote control for the LG SK5 soundbar.**
+ Application 100% free, ad-free, no subscriptions !
 
 ---
 
