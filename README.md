@@ -16,12 +16,17 @@ FGO IrRemote est une application Android gratuite permettant de contrôler une b
 
 ### Fonctionnalités
 
-- Allumer et éteindre la barre de son
-- Changer de source audio
-- Régler le volume et couper le son
-- Contrôler la lecture multimédia (lecture/pause, précédent, suivant)
-- Changer les effets sonores
 - Détecter la présence d'un émetteur infrarouge sur le téléphone
+- Les 17 commandes infrarouges de la télécommande d'origine
+- Écran organisé selon la télécommande d’origine, avec les commandes accessibles sans défilement.
+  - Allumer et éteindre la barre de son
+  - Changer de source source (Touche F)
+  - Régler le volume et couper le son
+  - Régler le niveau du Woofer
+  - Contrôler la lecture multimédia USB (lecture/pause, précédent, suivant)
+  - Changer les effets sonores
+  - Activation / Désactivation du mode nuit
+
 
 ### Compatibilité
 
@@ -33,7 +38,7 @@ La compatibilité avec d'autres modèles LG n'est pas garantie.
 
 ### Téléchargement
 
-La première version publique **v0.9.0** sera prochainement disponible dans la section [Releases](../../releases).
+La première version stable et complète **v1.0.0** est disponible dans la section [Releases](../../releases).
 
 ---
 
@@ -45,12 +50,16 @@ FGO IrRemote is a free Android application that lets you control an **LG SK5 sou
 
 ### Features
 
-- Power on/off
-- Switch audio inputs
-- Adjust volume and mute
-- Media playback controls (play/pause, previous, next)
+- Detects the presence of an infrared (IR) transmitter on the phone
+- Includes the 17 infrared commands found on the original remote control
+- Screen layout mirrors the original remote, with all controls accessible without the need for scrolling:
+- Power the soundbar on and off
+- Switch input sources (F button)
+- Adjust volume and mute sound
+- Adjust the subwoofer level
+- Control USB media playback (play/pause, previous, next)
 - Change sound effects
-- Detect whether the phone has an infrared transmitter
+- Enable/disable night mode
 
 ### Compatibility
 
@@ -62,7 +71,7 @@ Compatibility with other LG models is not guaranteed.
 
 ### Download
 
-The first public version, **v0.9.0**, will soon be available in [Releases](../../releases).
+The first stable and full public version, **v1.0.0**, is available in [Releases](../../releases).
 
 ---
 
